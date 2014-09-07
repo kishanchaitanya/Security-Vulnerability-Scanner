@@ -1,0 +1,57 @@
+GET http://www.ondeparture.net/ name=http://www.ondeparture.net/ type=serv linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=1801 notes=6 sig=0xe91ef6fa
+GET http://www.ondeparture.net// name= type=dir linked=no browsers=0 browser_used=FAST dup=0 code=200 len=1801 notes=4 sig=0xce74e7c9
+GET http://www.ondeparture.net/.google-analytics.com/ name=.google-analytics.com type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=301 len=256 notes=1 sig=0xdf0c7324
+GET http://www.ondeparture.net/.google-analytics.com/ga.js name=ga.js type=unknown linked=maybe browsers=0 browser_used=FAST dup=0 returns_404 code=404 len=344 notes=0 sig=0xffdfffff
+GET http://www.ondeparture.net/images/ name=images type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=301 len=241 notes=1 sig=0x63c577f5
+GET http://www.ondeparture.net/images/bg_footer.png name=bg_footer.png type=file linked=maybe browsers=0 browser_used=FAST dup=0 code=200 len=935 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/bg_header_2.png name=bg_header_2.png type=file linked=maybe browsers=0 browser_used=FAST dup=1 code=200 len=951 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/btn_blender.png name=btn_blender.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=6205 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/btn_download_big.png name=btn_download_big.png type=file linked=maybe browsers=0 browser_used=FAST dup=0 code=200 len=1573 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/btn_play.png name=btn_play.png type=file linked=maybe browsers=0 browser_used=FAST dup=0 code=200 len=2856 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/btn_play_rollover.png name=btn_play_rollover.png type=file linked=maybe browsers=0 browser_used=FAST dup=0 code=200 len=3005 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/gallery_01.jpg name=gallery_01.jpg type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=35931 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/gallery_02.jpg name=gallery_02.jpg type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=31546 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/gallery_03.jpg name=gallery_03.jpg type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=91947 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/gallery_04.jpg name=gallery_04.jpg type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=128119 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/gallery_05.jpg name=gallery_05.jpg type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=62639 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/gallery_06.jpg name=gallery_06.jpg type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=114515 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/home_title.png name=home_title.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=9306 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/hr.png name=hr.png type=file linked=no browsers=0 browser_used=FAST dup=1 code=200 len=933 notes=1 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/hr_double.png name=hr_double.png type=file linked=maybe browsers=0 browser_used=FAST dup=1 code=200 len=964 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_frameworks.png name=logo_frameworks.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=5512 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_irish_arts_council.png name=logo_irish_arts_council.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=4124 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_irish_film_board.png name=logo_irish_film_board.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=3305 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_rte.png name=logo_rte.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=2407 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_twitter.png name=logo_twitter.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=1684 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_twitter_sml.png name=logo_twitter_sml.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=1165 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_vimeo.png name=logo_vimeo.png type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=1608 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/images/logo_vimeo_sml.png name=logo_vimeo_sml.png type=file linked=yes browsers=0 browser_used=FAST dup=1 code=200 len=1111 notes=0 sig=0xfff7ffff
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.css/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.css type=dir linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=409 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.css.js/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.css.js type=dir linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=412 notes=2 sig=0xfff9842a
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.css.png/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.css.png type=dir linked=maybe browsers=0 browser_used=FAST dup=1 code=406 len=413 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.js/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.js type=dir linked=maybe browsers=0 browser_used=FAST dup=1 code=406 len=408 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.js.css/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.js.css type=dir linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=412 notes=3 sig=0x7264de11
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.js.txt/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.js.txt type=dir linked=maybe browsers=0 browser_used=FAST dup=1 code=406 len=412 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.png/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.png type=dir linked=maybe browsers=0 browser_used=FAST dup=1 code=406 len=409 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.png.js/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.png.js type=dir linked=maybe browsers=0 browser_used=FAST dup=1 code=406 len=412 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.png.txt/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.png.txt type=dir linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=413 notes=4 sig=0xfc01c329
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.txt/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.txt type=dir linked=maybe browsers=0 browser_used=FAST dup=1 code=406 len=409 notes=3 sig=0x5b2e8c85
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.txt.css/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.txt.css type=dir linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=413 notes=3 sig=0x8d9b21ee
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.txt.js/ name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.txt.js type=dir linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=412 notes=3 sig=0x9ce080e6
+GET http://www.ondeparture.net/contact name=contact type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=2268 notes=1 sig=0xfff6d75d
+GET http://www.ondeparture.net/index name=index type=file linked=no browsers=0 browser_used=FAST dup=0 code=200 len=1801 notes=2 sig=0xfff6d75d
+GET http://www.ondeparture.net/info name=info type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=7675 notes=2 sig=0xfe0a599e
+GET http://www.ondeparture.net/press-kit name=press-kit type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=22270 notes=15 sig=0xfb56f408
+GET http://www.ondeparture.net/updates name=updates type=file linked=no browsers=0 browser_used=FAST dup=0 code=200 len=2643 notes=3 sig=0x28bf1ed9
+GET http://www.ondeparture.net/updates.html name=updates.html type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=2643 notes=1 sig=0x28bc4f9c
+GET http://www.ondeparture.net/x_analytics.txt name=x_analytics.txt type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=469 notes=2 sig=0xef71a0a4
+GET http://www.ondeparture.net/x_main.css name=x_main.css type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=9922 notes=1 sig=0xfff6d5cd
+GET http://www.ondeparture.net/x_menu.txt name=x_menu.txt type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=589 notes=2 sig=0xef71a0a4
+GET http://www.ondeparture.net/x_scroll.js name=x_scroll.js type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=1663 notes=1 sig=0xfff6d5cd
+GET http://www.ondeparture.net/x_scrollspy.js name=x_scrollspy.js type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=3369 notes=1 sig=0xfff6d5cd
+GET http://www.ondeparture.net/x_shadowbox.js name=x_shadowbox.js type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=35747 notes=1 sig=0xfff6d5cd
+GET http://www.ondeparture.net/%26 name=& type=unknown linked=yes browsers=0 browser_used=FAST dup=1 returns_404 code=404 len=322 notes=0 sig=0xffdfffff
+GET http://www.ondeparture.net/{0} name={0} type=unknown linked=yes browsers=0 browser_used=FAST dup=1 returns_404 code=404 len=320 notes=0 sig=0xffdfffff
+GET http://www.ondeparture.net/{2} name={2} type=unknown linked=yes browsers=0 browser_used=FAST dup=1 returns_404 code=404 len=320 notes=0 sig=0xffdfffff
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.css.txt name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.css.txt type=unknown linked=maybe browsers=0 browser_used=FAST dup=0 code=406 len=412 notes=3 sig=0xc4127d6a
+GET http://www.ondeparture.net/%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.png.css name=\xd6\xc8\xfc\x09\xc6\x1f\xff\x096\xd7\xfc\x09.png.css type=unknown linked=maybe browsers=0 browser_used=FAST dup=0 code=0 len=0 notes=1 sig=0x6a841831

@@ -1,0 +1,48 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 19:55:15 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jun 2013 21:07:59 GMT
+Accept-Ranges: bytes
+Content-Length: 1801
+Content-Range: bytes 0-1800/1801
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>++ ON DEPARTURE • SHORT FILM • ANIMATION • EOIN DUFFY ++</title>
+<meta name="description" content="Animator/Director Eoin Duffy presents his latest creation - On Departure, an animated short film. A lone traveller makes his way through an airport before finally accepting his journey's end." />
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="x_main.css" />
+<meta name="viewport" content="width=device-width, initial-scale=.75, maximum-scale=.75">
+<script language="javascript" src="x_analytics.txt"></script>
+<!------------------ SHADOW BOX -->
+<script type="text/javascript" src="x_shadowbox.js"></script>
+<script type="text/javascript">
+Shadowbox.init();
+</script>
+<!------------------ SHADOW BOX -->
+</head>
+
+<body id="home">
+
+<div class="footerHome">
+
+<div class="containerHome">
+<img src="images/home_title.png"/>
+<br />
+<br />
+<a href="http://player.vimeo.com/video/68175219?autoplay=1;title=0&amp;byline=0&amp;portrait=0&amp;color=666666" rel="shadowbox;height=394;width=700"><img onmouseover="this.src='images/btn_play_rollover.png';" onmouseout="this.src='images/btn_play.png';" src="images/btn_play.png"></a>
+<div class="shareBTNs">
+	<iframe width="320" height="240" style="overflow: hidden; width: 100px; height: 21px;" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Feoinduffyanimation&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+</div>
+</div>
+</div>
+
+<div class= "header_back"><div>
+<div class= "header_container"><script language="javascript" src="x_menu.txt"></script></div>
+
+</body>
+</html>

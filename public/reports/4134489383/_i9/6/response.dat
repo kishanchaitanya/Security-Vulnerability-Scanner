@@ -1,0 +1,18 @@
+HTTP/1.1 406 Not Acceptable
+Date: Wed, 20 Nov 2013 19:55:39 GMT
+Server: Apache
+Content-Length: 412
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>406 Not Acceptable</title>
+</head><body>
+<h1>Not Acceptable</h1>
+<p>An appropriate representation of the requested resource /%D6%C8%FC%09%C6%1F%00%096%D7%FC%09.css.txt could not be found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+){

@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Date: Wed, 20 Nov 2013 12:44:21 GMT
+Server: Apache
+Content-Length: 324
+Keep-Alive: timeout=2, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /sfi9876 was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>

@@ -1,0 +1,14 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 19:55:16 GMT
+Server: Apache
+Last-Modified: Wed, 18 Sep 2013 21:04:55 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Range: bytes 0-110/111
+Keep-Alive: timeout=2, max=94
+Connection: Keep-Alive
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+
+</head

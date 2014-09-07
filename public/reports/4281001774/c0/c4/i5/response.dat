@@ -1,0 +1,210 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 12:45:07 GMT
+Server: Apache
+Last-Modified: Sun, 26 Aug 2012 16:34:18 GMT
+Accept-Ranges: bytes
+Content-Length: 22270
+Content-Range: bytes 0-22269/22270
+Keep-Alive: timeout=2, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>++ ON DEPARTURE • PRESS PACK ++</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="x_main.css" />
+<meta name="viewport" content="width=device-width, initial-scale=.75, maximum-scale=.75">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script language="javascript" src="x_analytics.txt"></script>
+<script type="text/javascript" src="x_shadowbox.js"></script><script type="text/javascript"> Shadowbox.init(); </script>
+<script type="text/javascript" src="x_scroll.js"></script>
+<script type="text/javascript" src="x_scrollspy.js"></script>
+<style type="text/css">
+body {background-image:url(images/bg_footer_big.jpg), url(images/bg_info.jpg), url(images/bg_pattern.jpg);background-position: bottom, top, top; background-repeat: no-repeat, no-repeat, repeat; background-attachment: scroll, scroll, scroll;}
+</style>
+</head>
+
+<body >
+
+<div class="container">
+
+<h1 style="font-size:50px;">Online Press Kit </h1>
+<hr />
+<h2> On Departure • Short Film </h2>
+<hr />
+
+
+<div id="synopsis" class="spacer_1"></div>
+<h1>Logline & Synopsis </h1>
+<hr />
+A lone traveller makes his way through an airport before finally accepting his journey's end.
+<hr />
+Deep in thought and bubbling with restrain a somewhat lonesome character is conveyed through an airport. Where is he going? Why is he travelling? His surroundings, sterilized in efficiency, offer little in the way of comfort. Forced to take emotional refuge our hero awaits his journey's end.
+<br />
+<br />
+<hr />
+<br />
+Director Eoin Duffy attempts to express a personal journey centred around the loss of his younger brother - Emmet. The film represents Eoin's journey home, his transition through the 5 stages of grief, all the while drawing parallels to his brother's journey.
+<br />
+<br />
+Eoin's characteristic style of refrain, strips the film of any and all distractions allowing the audience to melt into this – an audiovisual experiment.
+
+
+<div id="about" class="spacer_1"></div>
+<h1>About the Project</h1>
+<hr />
+On Departure is the 2012 debut short film by director/animator Eoin Duffy. The project was funded by the Irish Film Board's Frameworks programme in conduction with The Arts Council (of Ireland) and RTE (Raidió Teilifís Éireann). 
+<br />
+<br />
+The film was in production for 6 months. Throughout Eoin collaborated closely with producer Alan Doherty. The film also boasts an original music score by veteran composer Stephen Rennicks (The Garage, Adam & Paul). Post production including editing and sound design was provided by Dublin  production company Reelgood.
+<br />
+<br />
+<div class="footer">
+<a href="http://www.irishfilmboard.ie/" target="_blank"><img src="images/logo_irish_film_board.png" alt="Irish Film Board Funded" /></a>
+<a href="http://www.rte.ie/" target="_blank"><img src="images/logo_rte.png" alt="RTE" /></a>
+<a href="http://www.artscouncil.ie/" target="_blank"><img src="images/logo_irish_arts_council.png" alt="Irish Arts Council" /></a>
+<a href="http://www.irishfilmboard.ie/funding_programmes/Frameworks/65" target="_blank"><img src="images/logo_frameworks.png" alt="Irish Film Board Frameworks Funding Programme" /></a>
+</div>
+
+
+<div id="bio"class="spacer_1"></div>
+<h1>Director's Biography</h1>
+<hr />
+Eoin grew up in a household full of art, culture and music. Eoin's father, a full-time illustrator, author and musician, encouraged Eoin's creativity from an early age sparking a lifelong passion for the arts.
+<br />
+<br />
+Eoin went on to study Visual Communication in DIT Dublin, but sidelined all media involved in favour of animation, which best harnessed his love of storytelling. He excelled at university claiming the DIT "Best in Multimedia Graduation Prize". After which he was asked to join the team at One Louder, a diverse Dublin studio. It was here Eoin was introduced to the world of commercial animation creating TV adverts and campaigns.
+<br />
+<br />
+Eoin went on to create a body of independent work including his most celebrated work to date, music video "Stop" for band Kopek. The video toured internationally, winning "Best Designed Short" at the Suzanne awards and reached 70,000 online views in the first 6 months of release.
+<br />
+<br />
+More recently Eoin was a successful candidate for the 2011 funding program Frameworks under the Irish Film Board. The resulting film “On Departure” premiered at the Galway International Film Festival in July of 2012.
+<br />
+<br />
+Eoin splits his time between Vancouver, Canada and Dublin Ireland.
+<hr />
+<a href="http://www.eoinduffy.me/" target="_blank" class="whitelinkbox" >eoinduffy.me »</a> <a href="http://twitter.com/eoinduffy" target="_blank" class="whitelinkbox" >twitter »</a> <a href="http://vimeo.com/eoinduffy" target="_blank" class="whitelinkbox" >Vimeo »</a> <a href="#eoinPhoto" class="greenlinkbox" >Photo »</a>
+
+
+<div id="info"class="spacer_1"></div>
+<h1>Film Info</h1>
+<hr />
+Title: On Departure
+<hr />
+Country: Ireland
+<hr />
+Year: July 2012
+<hr />
+Animation Technique: Computer Animation 2D & 3D
+<hr />
+Software: Blender 3D, After Effects, Adobe Photoshop, Adobe Illustrator
+<hr />
+Screening Format: HD CAM/PAL/NTSC
+<hr />
+Duration: 5:23 mins
+<hr />
+Screen Ratio: 16:9
+<hr />
+NoDialogue
+
+
+<div id="credits"class="spacer_1"></div>
+<h1>Credits</h1>
+<hr />
+Directed by - Eoin Duffy <a href="http://www.eoinduffy.me/" target="_blank" class="whitelinkbox" >eoinduffy.me »</a>
+<hr />
+Produced by - Alan Doherty <a href="http://ie.linkedin.com/in/alanjdoherty" target="_blank"class="whitelinkbox" >Linked In »</a>
+<hr />
+Music - Stephen Rennicks <a href="http://www.spongemusic.ie/" target="_blank"class="whitelinkbox" >spongemusic.ie »</a>
+<hr />
+Editing - Rory Gavin 
+<hr />
+Sound Design - James Daly
+<hr />
+Post Production - Reel Good <a href="http://www.reelgood.com/" target="_blank"class="whitelinkbox" >reelgood.com »</a>
+<hr />
+All 3D elements proudly created in open source – Blender 3D <a href="http://www.blender.org/" target="_blank" class="whitelinkbox" >blender.org »</a>
+<hr />
+<a href="http://www.blender.org/" target="_blank" ><img src="images/btn_blender.png" alt="Blender 3D Logo" /></a>
+
+
+<div id="contacts"class="spacer_1"></div>
+<h1>Contacts</h1>
+<hr />
+Eoin Duffy
+<hr />
+&#101&#111&#105&#110&#064&#101&#111&#105&#110&#100&#117&#102&#102&#121&#046&#109&#101 <a class="whitelinkbox" href='&#109&#097&#105&#108&#116&#111&#058&#101&#111&#105&#110&#064&#101&#111&#105&#110&#100&#117&#102&#102&#121&#046&#109&#101'>Email Eoin »</a>
+<hr />
+Website <a href="http://www.eoinduffy.me/" target="_blank" class="whitelinkbox" >eoinduffy.me »</a>
+<hr />
+302 - 3673 W 11th Ave.
+<br />
+Vancouver, BC, V6R 2K4
+<br />
+Canada 
+
+
+<div id="trailer"class="spacer_1"></div>
+<h1>Trailer</h1>
+<hr />
+Online <a href="https://vimeo.com/43856641" target="_blank" class="whitelinkbox" >Vimeo »</a> <a href="http://youtu.be/4uGCTuCsw14" target="_blank" class="whitelinkbox" >Youtube »</a> <a href="http://ondeparture.net/" target="_blank" class="whitelinkbox" >Website »</a>
+<hr />
+DOWNLOAD <a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/On_Departure_Trailer_lrg.mp4" target="_blank" class="greenlinkbox" >MP4 (18mb) »</a> <a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/On_Departure_Trailer_iphone.mp4" target="_blank" class="greenlinkbox" >iPhone (2.8mb) »</a>
+
+
+<div class="spacer_2"></div>
+<h1>Full Movie</h1>
+<hr />
+Request online preview or DVD for festival/screening/review <a href="mailto:&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116;" target="_blank" class="whitelinkbox" >Email Us »</a>
+
+
+<div class="spacer_2"></div>
+<h1>Stills </h1>
+<hr />
+<div class="thumbdiv">
+<img src="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_01_thumb.jpg" width="280" height="157"  alt="On Departure Thumbnail" />
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_01_sml.jpg" target="_blank" class="greenlinkbox" >small »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_01_med.jpg" target="_blank" class="greenlinkbox" >medium »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_01_lrg.jpg" target="_blank" class="greenlinkbox" >large »</a>
+<br />
+Film Still 1: MC at the footer of a set of escalators in short film On Departure. Dir. Eoin Duffy
+</div>
+<div class="thumbdiv">
+<img src="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_02_thumb.jpg" width="280" height="157"  alt="On Departure Thumbnail" />
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_02_sml.jpg" target="_blank" class="greenlinkbox" >small »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_02_med.jpg" target="_blank" class="greenlinkbox" >medium »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_02_lrg.jpg" target="_blank" class="greenlinkbox" >large »</a>
+<br />
+Film Still 2: A set of elevator doors in short film On Departure. Dir. Eoin Duffy
+</div>
+<hr />
+<div class="thumbdiv">
+<img src="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_03_thumb.jpg" width="280" height="157"  alt="On Departure Thumbnail" />
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_03_sml.jpg" target="_blank" class="greenlinkbox" >small »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_03_med.jpg" target="_blank" class="greenlinkbox" >medium »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_03_lrg.jpg" target="_blank" class="greenlinkbox" >large »</a>
+<br />
+Film Still 3: MC stares at his reflection in short film On Departure. Dir. Eoin Duffy
+</div>
+<div class="thumbdiv">
+<img src="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_04_thumb.jpg" width="280" height="157"  alt="On Departure Thumbnail" />
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_04_sml.jpg" target="_blank" class="greenlinkbox" >small »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_04_med.jpg" target="_blank" class="greenlinkbox" >medium »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_04_lrg.jpg" target="_blank" class="greenlinkbox" >large »</a>
+<br />
+Film Still 4: Airport world clocks in short film On Departure. Dir. Eoin Duffy
+</div>
+<hr />
+<div class="thumbdiv">
+<img src="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_05_thumb.jpg" width="280" height="157"  alt="On Departure Thumbnail" />
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_05_sml.jpg" target="_blank" class="greenlinkbox" >small »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_05_med.jpg" target="_blank" class="greenlinkbox" >medium »</a>
+<a href="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_05_lrg.jpg" target="_blank" class="greenlinkbox" >large »</a>
+<br />
+Film Still 5: MC has a drink in short film On Departure. Dir. Eoin Duffy
+</div>
+<div class="thumbdiv">
+<img src="https://dl.dropbox.com/u/6407440/%2B%2B%20SITES/ondeparture.net/downloads/on_departure_06_thumb.jpg" width="280" height="157"  alt="On Departure Thumbnail" /

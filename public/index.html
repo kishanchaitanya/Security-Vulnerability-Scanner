@@ -1,0 +1,347 @@
+<!DOCTYPE HTML>
+<!--
+	Miniport 2.5 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>Eye</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" />
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/knockout-3.0.0.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="css/skel-noscript.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style-desktop.css" />
+    </noscript>
+    <br>
+    <script src="js/index.js"></script>
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45895482-1', 'eyewebscan.com');
+  ga('send', 'pageview');
+</script>
+    
+    
+   <script type="text/javascript">
+function submitUrl() {
+    var url = $('#url').val();
+    console.log(url);
+    $.post('/eye/ajaxscanurl', {
+        'url': url
+    }).done(
+        function (data) {
+            var redirectUrl = '/eye/status/' + data.id;
+            location.href = redirectUrl;
+        });
+}
+
+function getHistory() {
+    var url = $('#url').val();
+    console.log(url);
+    $.post('/eye/ajaxhistory', {
+        'url': url
+    }).done(
+        function (data) {
+            app.historyData.removeAll();
+	    var i = 0;
+	     for( i = 0; i < data.length; i++){
+		app.historyData.push(data[i]);
+	     }
+        });
+}
+</script>
+    
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+    <!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
+</head>
+
+<body>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Nav -->
+    <nav id="nav">
+        <ul class="container">
+            <li>
+                <a href="#top">Home</a>
+            </li>
+            <li>
+                <a href="#portfolio">My Creators</a>
+            </li>
+            <li>
+                <a href="#contact">Contact Me</a>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Home -->
+    <div class="wrapper wrapper-style1 wrapper-first">
+        <article class="container" id="top">
+            <div class="row">
+                <div class="4u">
+                    <span class="me image image-full">
+                        <img src="images/me.jpg" alt="" />
+                    </span>
+                </div>
+                <div class="8u">
+                    <header>
+                        <h1>Hi. I'm
+                            <strong>Eye</strong>.</h1>
+                    </header>
+                    <p>I will look into your web app to find
+                        <strong>Security Vulnerabilities </strong>in your code and tell you!</p>
+                         </div>
+                         <div class="8u">
+<table><tr><td>
+                    <input type="text" class="input-large" style="width: 730px;" placeholder="Enter the URL " id="url" /></td></tr>
+
+                    <tr><td align="center"><button onclick="submitUrl();" class="btn btn-large btn-primary" type="button" style="width: 140px;">
+                        Scan
+                    </button>
+<button onclick="getHistory();" class="btn btn-large btn-primary" type="button" style="width: 140px;">
+                        History
+                    </button></td></tr></table>
+                    </div>
+                    
+                <div class="12u" data-bind="visible: app.historyData().length != 0">
+                
+                    <table class="table table-striped">
+                        <thead>
+                        <th>Date</th>
+                        <th>ID</th>
+                        </thead>
+                        <tbody data-bind="foreach: app.historyData ">
+                            <tr>
+                                <td data-bind="text: time.toString()"> </td><br>
+                                <td><a data-bind="attr: { href : '/eye/reports/' + _id }, text: _id"/> </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </article>
+    </div>
+
+    <!-- Portfolio -->
+    <div class="wrapper wrapper-style3 wrapper-third">
+        <article id="portfolio">
+            <header>
+                <h2>I am born. Thanks to my creators!</h2>
+            </header>
+            <div class="row team">
+                <center>
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="col-md-3">
+                                    <div class="team-member">
+                                        <img alt="kishan" src="images/kishan.png" />
+                                        <div class="team-cont">
+                                            <h3>Kishan Chaitanya</h3>
+                                            <span>Team Lead</span>
+                                            <ul class="social">
+                                                <li style="height: 44px;">
+                                                    <a class="fb" href="https://www.facebook.com/gkishan" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="twi" href="https://twitter.com/kishanchaitanya" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="drib" href="http://www.linkedin.com/pub/kishan-chaitanya/17/96/b63" target="_blank"></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="col-md-3">
+                                    <div class="team-member">
+                                        <img alt="" src="images/shandeep.png" />
+                                        <div class="team-cont">
+                                            <h3>Shandeep</h3>
+                                            <span>Team Member</span>
+                                            <ul class="social">
+                                                <li style="height: 44px;">
+                                                    <a class="fb" href="https://www.facebook.com/shandeep.km" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="twi" href="https://twitter.com/Shandeep5" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="drib" href="http://www.linkedin.com/in/shandeep/" target="_blank"></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="col-md-3">
+                                    <div class="team-member">
+                                        <img alt="" src="images/prabhu.png" />
+                                        <div class="team-cont">
+                                            <h3>Prabhu</h3>
+                                            <span>Team Member</span>
+                                            <ul class="social">
+                                                <li style="height: 44px;">
+                                                    <a class="fb" href="https://www.facebook.com/prabhu.siddharth1" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="twi" href="https://twitter.com/sidhu747" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="drib" href="http://www.linkedin.com/pub/prabhu-siddharth-raveendran/68/819/928/" target="_blank"></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="col-md-3">
+                                    <div class="team-member">
+                                        <img alt="" src="images/sagar.png" />
+                                        <div class="team-cont">
+                                            <h3>Sagar</h3>
+                                            <span>Team Member</span>
+                                            <ul class="social">
+                                                <li style="height: 44px;">
+                                                    <a class="fb" href="https://www.facebook.com/sagar.dave.94" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="twi" href="https://twitter.com/iSagarDave" target="_blank"></a>
+                                                </li>
+                                                <li style="height: 44px;">
+                                                    <a class="drib" href="http://www.linkedin.com/pub/sagar-dave/32/607/a48/" target="_blank"></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </div>
+        </article>
+    </div>
+
+    <!-- Contact -->
+    <div class="wrapper wrapper-style4 wrapper-fourth">
+        <article id="contact" class="container small">
+            <header>
+                <h2>Want to contact me? Just leave a message!</h2>
+            </header>
+            <div>
+                <div class="row">
+                    <div class="12u">
+                        <form id="contactform" name="contactform"method="post" action="">
+                            <div>
+                                <div class="row half">
+                                    <div class="6u">
+                                        <input type="text" name="name" id="name" style="height: 50px;" placeholder="Name" maxlength="30"/>
+                                    </div>
+                                    <div class="6u">
+                                        <input type="text" name="email" id="email" style="height: 50px;" placeholder="Email" maxlength="30"/>
+                                    </div>
+                                </div>
+                                <div class="row half">
+                                    <div class="12u">
+                                        <input type="text" name="subject" id="subject" style="height: 50px;" placeholder="Subject" maxlength="30"/>
+                                    </div>
+                                </div>
+                                <div class="row half">
+                                    <div class="12u">
+                                        <textarea name="message" id="message" style="height: 150px;" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="12u">
+                                    <input type="hidden" name="parse_var" id="parse_var" value="contactform">
+                                    <input class="button form-button-submit" type="button" name="submit" id="submit" value="Submit" style="width: 180px;">
+                                    
+                                    <input class="button button-alt form-button-reset" type="button" name="clear" id="clear" value="Clear" style="width: 180px;">
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="12u">
+                        <hr />
+                        <h3>Find me on ...</h3>
+                        <ul class="social">
+                            <li class="twitter">
+                                <a href="https://twitter.com/eyewebscan" class="fa fa-twitter" target="_blank">
+                                    <span>Twitter</span>
+                                </a>
+                            </li>
+                            <li class="facebook">
+                                <a href="https://www.facebook.com/eyewebscan" class="fa fa-facebook" target="_blank">
+                                    <span>Facebook</span>
+                                </a>
+                            </li>
+                            <li class="googleplus">
+                                <a href="https://plus.google.com/b/113494010561743671733/113494010561743671733/about?hl=en" class="fa fa-google-plus" target="_blank">
+                                    <span>Google+</span>
+                                </a>
+                            </li>
+                            <li class="github">
+                                <a href="" class="fa fa-github" target="_blank">
+                                    <span>Github</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+             <center>
+                    <table><tr><td height="260" width="340">
+                   <div class="fb-like-box" data-href="http://www.facebook.com/eyewebscan" data-width="340" data-height="260" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div></td>
+                    
+                    <td height="260" width="340"><div><a class="twitter-timeline" href="https://twitter.com/eyewebscan" data-widget-id="402994896799162368">Tweets by @eyewebscan</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></td></tr></table></center>
+            
+            
+            <footer>
+                <ul id="copyright">
+                    <font color="#009ACD">
+                        <li>Designed & Maintained by Kishan Chaitanya</li>
+                        <li>Copyright © 2013</li>
+                        <li>All rights reserved</li>
+                    </font>
+                </ul>
+            </footer>
+        </article>
+    </div>
+</body>
+
+</html>

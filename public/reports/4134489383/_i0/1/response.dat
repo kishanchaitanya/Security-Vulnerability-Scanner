@@ -1,0 +1,100 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 19:56:38 GMT
+Server: Apache
+Last-Modified: Wed, 20 Jun 2012 23:13:54 GMT
+Accept-Ranges: bytes
+Content-Length: 2643
+Content-Range: bytes 0-2642/2643
+Keep-Alive: timeout=2, max=36
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Sign Up</title>
+
+
+<style type="text/css">
+body{
+	height:					100px;
+	background-color:		#f2f2f2;
+	margin:					5%;
+}
+div, td, p, li, input, select, textarea {
+	font-family:		Verdana, Arial;
+	font-size:			13px;
+	line-height:		22px;
+	color:				#8d8d8d;
+}
+h1 {
+	font-family:		Georgia, Times;
+	font-size:			18px;	
+	line-height:		36px;
+	color:				#8d8d8d;
+	font-weight:		normal;
+	text-transform:		normal;
+	display:			inline;
+	font-style:			italic;
+	margin:				0px 0px 0px 0px;
+	padding:			0px 0px 0px 0px;
+}
+HR {
+	align:				left;
+	width:				100%;
+	margin:				10px 0px 20px 0px;
+    color: 				#d9d9d9;
+	background-color: 	#d9d9d9;
+	height: 			1px;
+	border: 			0;
+}
+.formbox input[type="email"], .formbox textarea
+{
+    height:					30px;
+    width:					100%;
+    font-family: 			Arial, Sans-Serif;
+    font-size: 				16px;
+    display: 				block;
+    border: 				solid 1px #bfbfbf; 
+    background-color: 		#ffffff;
+    -moz-border-radius: 	3px;
+    -webkit-border-radius: 	3px;
+    -khtml-border-radius: 	3px;
+    border-radius: 			3px;
+     display: inline;
+}
+.formbox input[type="email"]:focus, .formbox textarea:focus
+{
+    background-color: #ffffff;
+    border: solid 1px #808080;
+}
+.btn_submit{
+	height:					40px;
+    width:					100%;
+    color:					#576446;
+    font-family: 			Arial, Sans-Serif;
+    font-size: 				14px;
+    margin:					20px 0px 0px 0px;
+    background-color:		#a4d17d;
+    border: 				solid 1px #8dae63; 
+    -moz-border-radius: 	3px;
+    -webkit-border-radius: 	3px;
+    -khtml-border-radius: 	3px;
+    border-radius: 			3px;
+}
+.btn_submit:hover {
+    background-color:		#c3e5a4;
+}   
+</style>
+    
+</head>
+
+
+<body >
+
+<div class="formbox">
+<h1>Get Updates</h1>
+<hr />
+<a href="http://twitter.com/eoinduffy" target="_blank"><img src="images/logo_twitter.png" width="32" height="32" alt="On Departure Twitter" /></a> &nbsp
+<a href="http://vimeo.com/eoinduffy" target="_blank"><img src="images/logo_vimeo.png" width="32" height="32" alt="On Departure Vimeo" /></a> &nbsp
+<hr />
+<form action="https://docs.google.com/spreadsheet/formResponse?formkey=dHRDR28wdGVkSnoycnd2dXpUV3BQOHc6MQ&amp;embedded=true&amp;ifq" method="POST" id="ss-form"

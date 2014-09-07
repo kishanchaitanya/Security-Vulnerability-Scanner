@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 20 Nov 2013 12:44:21 GMT
+Server: Apache
+Location: http://www.ondeparture.net/sfi9876
+Content-Length: 242
+Keep-Alive: timeout=2, max=98
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.ondeparture.net/sfi9876">here</a>.</p>
+</body></html>

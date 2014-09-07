@@ -1,0 +1,190 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 19:56:37 GMT
+Server: Apache
+Last-Modified: Wed, 20 Jun 2012 23:13:52 GMT
+Accept-Ranges: bytes
+Content-Length: 7675
+Content-Range: bytes 0-7674/7675
+Keep-Alive: timeout=2, max=28
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>++ ON DEPARTURE • INFO ++</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="x_main.css" />
+<meta name="viewport" content="width=device-width, initial-scale=.75, maximum-scale=.75">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script language="javascript" src="x_analytics.txt"></script>
+<script type="text/javascript" src="x_shadowbox.js"></script><script type="text/javascript"> Shadowbox.init(); </script>
+<script type="text/javascript" src="x_scroll.js"></script>
+<script type="text/javascript" src="x_scrollspy.js"></script>
+<style type="text/css">
+body {background-image:url(images/bg_footer_big.jpg), url(images/bg_info.jpg), url(images/bg_pattern.jpg);background-position: bottom, top, top; background-repeat: no-repeat, no-repeat, repeat; background-attachment: scroll, scroll, scroll;}
+</style>
+</head>
+<body id="info">
+<div class="container">
+
+
+
+<h1 style="font-size:50px;">Info </h1>
+<hr />
+<h2> On Departure • Short Film </h2>
+<hr />
+<a href="http://www.irishfilmboard.ie/" target="_blank"><img src="images/logo_irish_film_board.png" alt="Irish Film Board Funded" /></a>
+<a href="http://www.rte.ie/" target="_blank"><img src="images/logo_rte.png" alt="RTE" /></a>
+<a href="http://www.artscouncil.ie/" target="_blank"><img src="images/logo_irish_arts_council.png" alt="Irish Arts Council" /></a>
+<a href="http://www.irishfilmboard.ie/funding_programmes/Frameworks/65" target="_blank"><img src="images/logo_frameworks.png" alt="Irish Film Board Frameworks Funding Programme" /></a>
+
+
+
+<div id="trailer" class="spacer_1"></div>
+<h1>Trailer</h1>
+<hr />
+<div class="video-container"><iframe src="http://player.vimeo.com/video/44054451?title=0&amp;byline=0&amp;portrait=0&amp;color=d57e97" width="700" height="393" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+
+
+<div id="about" class="spacer_1"></div>
+<h1>About</h1>
+<hr />
+A lone traveller makes his way through an airport before finally accepting his journey's end.
+<hr />
+Directed by - Eoin Duffy <a href="http://www.eoinduffy.me/" target="_blank" class="whitelinkbox" >eoinduffy.me »</a>
+<hr />
+Produced by - Alan Doherty <a href="http://ie.linkedin.com/in/alanjdoherty" target="_blank"class="whitelinkbox" >Linked In »</a>
+<hr />
+Music - Stephen Rennicks <a href="http://www.spongemusic.ie/" target="_blank"class="whitelinkbox" >spongemusic.ie »</a>
+<hr />
+Editing - Rory Gavin 
+<hr />
+Sound Design - James Daly
+<hr />
+Post Production - Reel Good <a href="http://www.reelgood.com/" target="_blank"class="whitelinkbox" >reelgood.com »</a>
+<hr />
+All 3D elements proudly created in open source – Blender 3D <a href="http://www.blender.org/" target="_blank"class="whitelinkbox" >blender.org »</a>
+<hr />
+<a href="http://www.blender.org/" target="_blank" ><img src="images/btn_blender.png" alt="Blender 3D Logo" /></a>
+
+
+
+<div id="upcoming" class="spacer_1"></div>
+<h1>Upcoming Screenings</h1>
+<hr />
+Galway International Film Festival – 14/07/2012 [WORLD PREMIER]
+
+
+
+<div id="stills" class="spacer_1"></div>
+<h1>Stills</h1>
+<hr />
+<img class="image_gal" src="images/gallery_01.jpg" alt="On Departure Still" />
+<img class="image_gal" src="images/gallery_02.jpg" alt="On Departure Still" />
+<img class="image_gal" src="images/gallery_03.jpg" alt="On Departure Still" />
+<img class="image_gal" src="images/gallery_04.jpg" alt="On Departure Still" />
+<img class="image_gal" src="images/gallery_05.jpg" alt="On Departure Still" />
+<img class="image_gal" src="images/gallery_06.jpg" alt="On Departure Still" />
+
+
+
+<div class="spacer_2"></div>
+<div class="footer">
+<h1>Contact</h1>
+<hr />
+&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116; <a target="blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116;" class="whitelinkbox" >Say Hello »</a> 
+<hr />
+Press Kit <a href="press-kit" class="greenlinkbox" >Online Press Kit »</a>
+<hr />
+All festival/screener requests <a target="blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116;" class="whitelinkbox" >Email Booking »</a>
+<hr />
++1-604-728-4221
+<hr />
+<a href="http://twitter.com/eoinduffy" target="_blank"><img src="images/logo_twitter.png" width="32" height="32" alt="On Departure Twitter" /></a> &nbsp
+<a href="http://vimeo.com/eoinduffy" target="_blank"><img src="images/logo_vimeo.png" width="32" height="32" alt="On Departure Vimeo" /></a> &nbsp
+<hr />
+<br />
+<a class="updates" href="updates.html" rel="shadowbox;height=400;width=400">get updates »</a>
+<br />
+<br />
+</div>
+<div class="spacer_2"></div>
+<div class="spacer_2"></div>
+
+
+
+</div>
+
+
+
+<div class= "header_back"><div>
+<div class= "header_container"><script language="javascript" src="x_menu.txt"></script></div>
+<div class= "header_back_2"><div>
+<div class= "header_container_2">
+<div class='header_text' >
+<p class='alignright'>
+<a class='menulink2' id="trailer_menu" href='#trailer'>Trailer</a>
+<a class='menulink2' id="about_menu" href='#about'>About</a>
+<a class='menulink2' id="upcoming_menu" href='#upcoming'>Screenings</a>
+<a class='menulink2' id="stills_menu" href='#stills'>Stills</a>
+</p>
+</div>
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+	        $(document).ready(function() {
+        			$('.spacer_1').each(function(i) {
+        				var position = $(this).position();
+        				console.log(position);
+        				console.log('min: ' + position.top + ' / max: ' + parseInt(position.top + $(this).height()));
+        				$(this).scrollspy({
+        					min: position.top,
+        					max: position.top + $(this).height(),
+        					onEnter: function(element, position) {
+        						if(console) console.log('entering ' +  element.id);
+        						$("#trailer_menu").css('color', "#938e8c") .css('margin', "3px 4px 3px 5px") .css('border-width',"0px 0px 0px 0px") .css('background-color', "transparent");
+        						$("#about_menu").css('color', "#938e8c") .css('margin', "3px 4px 3px 5px") .css('border-width',"0px 0px 0px 0px") .css('background-color', "transparent");
+        						$("#upcoming_menu").css('color', "#938e8c") .css('margin', "3px 4px 3px 5px") .css('border-width',"0px 0px 0px 0px") .css('background-color', "transparent");
+        						$("#stills_menu").css('color', "#938e8c") .css('margin', "3px 4px 3px 5px") .css('border-width',"0px 0px 0px 0px") .css('background-color', "transparent");
+        						$("#" + element.id + "_menu")
+        							.css('margin',				"0px 0px 0px 0px")
+									.css('color',				"white")
+									.css('border-style', 		"solid")
+									.css('border-width',		"3px 4px 3px 5px")
+									.css('border-color',		"black")
+									.css('background-color',   	"black")
+									.css('white-space',			"nowrap")
+									.css('-moz-border-radius',	"3px")
+									.css('border-radius', 		"3px");
+        					},
+        					onLeave: function(element, position) {
+        						if(console) console.log('leaving ' +  element.id);
+        						//$("#" + element.id + "_menu").css('color', "#938e8c");
+        					}
+        				});
+        			});
+        		});
+</script>
+<style type="text/css">
+#trailer_menu {
+    margin:				0px 0px 0px 0px;
+	color:				white;
+	border-style:		solid;
+	border-width:		3px 4px 3px 5px;
+	border-color:		black;
+	background-color:   black;
+	white-space:		nowrap;
+	-moz-border-radius: 3px;
+	border-radius: 		3px;
+}
+</style>
+
+
+
+</body>
+</html>

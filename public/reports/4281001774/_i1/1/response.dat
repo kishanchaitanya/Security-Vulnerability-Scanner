@@ -1,0 +1,47 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 12:45:06 GMT
+Server: Apache
+Last-Modified: Wed, 20 Jun 2012 23:13:52 GMT
+Accept-Ranges: bytes
+Content-Length: 7675
+Content-Range: bytes 0-7674/7675
+Keep-Alive: timeout=2, max=70
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>++ ON DEPARTURE • INFO ++</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="x_main.css" />
+<meta name="viewport" content="width=device-width, initial-scale=.75, maximum-scale=.75">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script language="javascript" src="x_analytics.txt"></script>
+<script type="text/javascript" src="x_shadowbox.js"></script><script type="text/javascript"> Shadowbox.init(); </script>
+<script type="text/javascript" src="x_scroll.js"></script>
+<script type="text/javascript" src="x_scrollspy.js"></script>
+<style type="text/css">
+body {background-image:url(images/bg_footer_big.jpg), url(images/bg_info.jpg), url(images/bg_pattern.jpg);background-position: bottom, top, top; background-repeat: no-repeat, no-repeat, repeat; background-attachment: scroll, scroll, scroll;}
+</style>
+</head>
+<body id="info">
+<div class="container">
+
+
+
+<h1 style="font-size:50px;">Info </h1>
+<hr />
+<h2> On Departure • Short Film </h2>
+<hr />
+<a href="http://www.irishfilmboard.ie/" target="_blank"><img src="images/logo_irish_film_board.png" alt="Irish Film Board Funded" /></a>
+<a href="http://www.rte.ie/" target="_blank"><img src="images/logo_rte.png" alt="RTE" /></a>
+<a href="http://www.artscouncil.ie/" target="_blank"><img src="images/logo_irish_arts_council.png" alt="Irish Arts Council" /></a>
+<a href="http://www.irishfilmboard.ie/funding_programmes/Frameworks/65" target="_blank"><img src="images/logo_frameworks.png" alt="Irish Film Board Frameworks Funding Programme" /></a>
+
+
+
+<div id="trailer" class="spacer_1"></div>
+<h1>Trailer</h1>
+<hr />
+<div class="video-container"><iframe src="http://player.vimeo.com/video/44054451?title=0&amp;byline=0&amp;portrait=0&amp;color=d57e97" width="700" height="393" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen

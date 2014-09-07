@@ -1,0 +1,13 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 19:56:49 GMT
+Server: Apache
+Last-Modified: Thu, 14 Jun 2012 22:01:11 GMT
+Accept-Ranges: bytes
+Content-Length: 5512
+Content-Range: bytes 0-5511/5512
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+
+‰PNG
+

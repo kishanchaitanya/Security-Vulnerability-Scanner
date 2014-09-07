@@ -1,0 +1,69 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 20 Nov 2013 20:27:25 GMT
+Server: Apache
+Last-Modified: Wed, 20 Jun 2012 23:13:50 GMT
+Accept-Ranges: bytes
+Content-Length: 2268
+Content-Range: bytes 0-2267/2268
+Keep-Alive: timeout=2, max=11
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>++ ON DEPARTURE • CONTACT ++</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="x_main.css" />
+<meta name="viewport" content="width=device-width, initial-scale=.75, maximum-scale=.75">
+<script language="javascript" src="x_analytics.txt"></script>
+<script type="text/javascript" src="x_shadowbox.js"></script><script type="text/javascript"> Shadowbox.init(); </script>
+<style type="text/css">
+body {background-image:url(images/bg_footer_big.jpg), url(images/bg_info.jpg), url(images/bg_pattern.jpg);background-position: bottom, top, top; background-repeat: no-repeat, no-repeat, repeat; background-attachment: scroll, scroll, scroll;}
+</style>
+</head>
+
+<body id="contact">
+<div class="container">
+
+
+
+<h1 style="font-size:50px;">Contact </h1>
+<hr />
+<h2> On Departure • Short Film </h2>
+<hr />
+
+
+<div class="spacer_1"></div>
+<h1>Get in Touch</h1>
+<hr />
+&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116; <a target="blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116;" class="whitelinkbox" >Say Hello »</a> 
+<hr />
+Press Kit <a href="press-kit" class="greenlinkbox" >Online Press Kit »</a>
+<hr />
+All festival/screener requests <a target="blank" href="mailto:&#105;&#110;&#102;&#111;&#064;&#111;&#110;&#100;&#101;&#112;&#097;&#114;&#116;&#117;&#114;&#101;&#046;&#110;&#101;&#116;" class="whitelinkbox" >Email Booking »</a>
+<hr />
++1-604-728-4221
+<hr />
+<a href="http://twitter.com/eoinduffy" target="_blank"><img src="images/logo_twitter.png" width="32" height="32" alt="On Departure Twitter" /></a> &nbsp
+<a href="http://vimeo.com/eoinduffy" target="_blank"><img src="images/logo_vimeo.png" width="32" height="32" alt="On Departure Vimeo" /></a> &nbsp
+<hr />
+<br />
+<a class="updates" href="updates.html" rel="shadowbox;height=400;width=400">get updates »</a>
+<br />
+<br />
+</div>
+<div class="spacer_2"></div>
+<div class="spacer_2"></div>
+
+
+
+<div class= "header_back"><div>
+<div class= "header_container"><script language="javascript" src="x_menu.txt"></script></div>
+</div>
+
+
+
+</body>
+</html>
